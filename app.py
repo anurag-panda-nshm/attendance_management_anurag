@@ -4,7 +4,6 @@ import os
 import cv2
 import numpy as np
 from datetime import datetime
-from face_utils import FaceRecognizer
 from datetime import date
 import pandas as pd
 import joblib
